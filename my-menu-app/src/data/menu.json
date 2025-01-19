@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "label": "Home",
+    "children": [
+      { "id": 11, "label": "Home Overview", "link": "/home/overview" },
+      { "id": 12, "label": "Home Features", "link": "/home/features" }
+    ]
+  },
+  {
+    "id": 2,
+    "label": "About",
+    "children": [
+      { "id": 21, "label": "Company History", "link": "/about/history" },
+      { "id": 22, "label": "Our Team", "link": "/about/team" }
+    ]
+  },
+  {
+    "id": 3,
+    "label": "Services",
+    "children": [
+      { "id": 31, "label": "Web Development", "link": "/services/web" },
+      { "id": 32, "label": "App Development", "link": "/services/app" },
+      { "id": 33, "label": "SEO Optimization", "link": "/services/seo" },
+      { "id": 34, "label": "This is a very long title to demonstrate text overflow handling in Material-UI components", "link": "/services/long-title" }
+    ]
+  },
+  {
+    "id": 4,
+    "label": "Contact",
+    "children": [
+      { "id": 41, "label": "Support", "link": "/contact/support" },
+      { "id": 42, "label": "Sales", "link": "/contact/sales" }
+    ]
+  }
+]
