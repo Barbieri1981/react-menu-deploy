@@ -1,8 +1,14 @@
-# React + Vite
+# React Menu Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un ejemplo de un componente de menú en **React** con submenús, diseñado para manejar elementos con títulos largos y estilos consistentes. Además, está optimizado para despliegue en GitHub Pages.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Menú principal** con opciones expandibles.
+- **Submenús** que admiten elementos con títulos largos y manejan overflow mediante truncamiento.
+- Diseño moderno utilizando **Material-UI**.
+- Resaltado de elementos seleccionados.
+- Implementación modular para facilitar la reutilización y el mantenimiento.
+
+## Estructura del Proyecto
+
